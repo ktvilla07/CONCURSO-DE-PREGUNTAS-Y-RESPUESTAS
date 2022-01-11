@@ -1,1 +1,2 @@
 # CONCURSO-DE-PREGUNTAS-Y-RESPUESTAS
+En este repositorio se encuentra un concurso de preguntas y respuestas hecho con el lenguaje de programación JAVA en el entorno de desarrollo NetBeans y su respectiva base de datos SQL, en donde se pueden ver los datos de los nombres y puntajes de los jugadores.
